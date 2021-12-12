@@ -1,7 +1,10 @@
 # Deep_Learning 
 
 Complete learning path for Advanced topics in Deep Learning and Neural Networks
-  
+    
+  <img width="791" alt="Screenshot 2021-12-12 at 8 18 10 PM" src="https://user-images.githubusercontent.com/61674750/145717179-6d625e7c-d736-4f5f-8b28-5b67b8710484.png">
+
+.  
 1.  
 <img width="693" alt="Screenshot 2021-12-12 at 1 31 14 AM" src="https://user-images.githubusercontent.com/61674750/145690000-7e5d576d-bcfb-429f-94e0-248d7f407fb8.png">  
   
